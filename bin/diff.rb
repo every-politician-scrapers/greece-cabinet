@@ -6,11 +6,11 @@ require 'every_politician_scraper/comparison'
 # 'ignore_case' doesn't seem to be having any effect, so coerce everything to caps
 class Comparison < EveryPoliticianScraper::Comparison
   def wikidata_csv_options
-    { converters: [->(v) { v.upcase }] }
+    { converters: [->(v) { v.to_s.upcase }] }
   end
 
   def external_csv_options
-    { converters: [->(v) { v.upcase }] }
+    { converters: [->(v) { v.to_s.upcase }] }
   end
 end
 
