@@ -1,5 +1,15 @@
 {
-    "cabinet": "Q65184515",
-    "lang":    "el",
-    "agent":   "every-politican-scrapers/greece-cabinet"
+    "cabinet": {
+      "id": "Q65184515",
+      "start": "2019-07-09"
+    },
+    "source": {
+        "url":   "https://government.gov.gr/kivernisi",
+        "title": "Σύνθεση της Κυβέρνησης",
+        "lang":  {
+            "code": "el",
+            "wikidata": "Q9129"
+        }
+    },
+    "agent": "every-politican-scrapers/greece-cabinet"
 }
