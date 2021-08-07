@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Greece",
+      "id": "Q41"
+    },
     "cabinet": {
       "id": "Q65184515",
-      "start": "2019-07-09"
+      "start": "2019-07-09",
+      "parent": "Q16331915"
     },
     "source": {
         "url":   "https://government.gov.gr/kivernisi",
