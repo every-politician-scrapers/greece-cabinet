@@ -7,7 +7,7 @@ module.exports = (label) => {
   return {
     type: 'item',
     labels: {
-      en: label,
+      el: label,
     },
     descriptions: {
       en: `cabinet position in ${meta.jurisdiction.name}`,
