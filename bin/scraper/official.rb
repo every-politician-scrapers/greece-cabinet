@@ -20,7 +20,7 @@ class MemberList
     private
 
     def ministry
-      noko.parent.xpath('preceding-sibling::ol[1]').text.tidy
+      noko.parent.xpath('preceding-sibling::p[strong][1]').text.tidy
     end
 
     def position_and_name
