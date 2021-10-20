@@ -6,8 +6,7 @@ require 'open-uri/cached'
 require 'pry'
 
 class MemberList
-  # details for an individual member
-  class Member < Scraped::HTML
+  class Member
     field :name do
       position_and_name.last
     end
@@ -33,14 +32,7 @@ class MemberList
     end
   end
 
-  # The page listing all the members
-  class Members < Scraped::HTML
-    field :members do
-      member_container.map { |member| fragment(member => Member).to_h }
-    end
-
-    private
-
+  class Members
     def member_container
       noko.css('.td-main-content').xpath('.//li[contains(.,":")]')
     end
