@@ -33,8 +33,19 @@ class MemberList
   end
 
   class Members
+    def members
+      [node_with('ΠΡΩΘΥΠΟΥΡΓΟΣ'), node_with('ΑΝΤΙΠΡΟΕΔΡΟΣ ΤΗΣ ΚΥΒΕΡΝΗΣΗΣ'), super].flatten
+    end
+
     def member_container
       noko.css('.td-main-content').xpath('.//li[contains(.,":")]')
+    end
+
+    def node_with(position)
+      {
+        name: noko.xpath("//strong[contains(., '#{position}')]//following-sibling::text()").text.tidy,
+        position: position
+      }
     end
   end
 end
