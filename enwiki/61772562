@@ -126,6 +126,10 @@
           "template": "short description"
         },
         {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1959",
           "month": "7",
           "day": "17",
@@ -323,7 +327,7 @@
           "title": "Tasoulas elected Parliament Speaker with broad, five-party backing",
           "first": "ΤοΒΗΜΑ",
           "last": "Team",
-          "date": "July 17, 2019",
+          "date": "17 July 2019",
           "website": "Ειδήσεις - νέα - Το Βήμα Online",
           "template": "citation",
           "type": "web"
