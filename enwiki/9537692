@@ -1158,19 +1158,6 @@
         {
           "sentences": [
             {
-              "text": "He is suspected of being one of the beneficiaries of bribes paid by the pharmaceutical group Novartis to increase sales of its drugs in Greece.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Novartis"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
               "text": "On February 1, 2021, Georgiadis mocked the move of the restaurant businessmen to hand over the keys of their shops to the Prime Minister Kyriakos Mitsotakis who with one of the most extreme quarantines for COVID-19 in the world has banned the operation of these businesses for months.",
               "links": [
                 {
@@ -1271,12 +1258,6 @@
           "date": "15 November 2017",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         },
         {
           "url": "https://www.efsyn.gr/oikonomia/elliniki-oikonomia/279591_ta-kleidia-ston-adoni",
