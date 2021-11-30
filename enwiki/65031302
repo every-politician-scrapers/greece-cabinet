@@ -172,59 +172,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "Political career",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "During Panagiotopoulos' time in office, the Greek parliament approved the purchase of six new and 12 used Dassault Rafale fighter aircraft from France for 2.5 billion euros ($3.04 billion) in January 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Dassault Rafale"
-                },
-                {
-                  "text": "fighter aircraft",
-                  "type": "internal",
-                  "page": "fighter aircraft"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "2"
-          ],
-          "template": "reflist"
-        },
-        {
-          "template": "current cabinet of greece"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "greece-politician-stub"
-        }
-      ]
     }
   ]
 }

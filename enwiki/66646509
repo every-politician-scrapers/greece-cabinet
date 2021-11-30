@@ -157,24 +157,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "current cabinet of greece"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "greece-politician-stub"
-        }
-      ]
     }
   ]
 }
