@@ -242,6 +242,21 @@
                 "page": "Panthéon-Assas University"
               }
             ]
+          },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of parliament"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "MP"
+              ]
+            }
           }
         }
       ],
