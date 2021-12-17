@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "Spyridon-Adonis Georgiadis (Σπυρίδων-Άδωνις Γεωργιάδης), better known as Adonis Georgiadis, is a Greek politician, telemarketer and publisher.",
+              "text": "Spyridon-Adonis Georgiadis (Σπυρίδων-Άδωνις Γεωργιάδης; born 6 November 1972 ), better known as Adonis Georgiadis, is a Greek politician, telemarketer and publisher.",
               "links": [
                 {
                   "text": "Greek",
@@ -212,6 +212,9 @@
                 "page": "Kostis Hatzidakis"
               }
             ]
+          },
+          "birth_date": {
+            "text": "6 November 1972"
           },
           "birth_place": {
             "text": "Athens, Greece",
