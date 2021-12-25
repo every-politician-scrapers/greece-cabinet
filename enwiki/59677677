@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "General Konstantinos Floros (Κωνσταντίνος Φλώρος; born June 24, 1961) is a Greek army officer.",
+              "text": "General Konstantinos Floros (Κωνσταντίνος Φλώρος; born 24 June 1961) is a Greek army officer.",
               "links": [
                 {
                   "text": "General",
@@ -84,6 +84,7 @@
           "year": "1961",
           "month": "06",
           "day": "24",
+          "df": "y",
           "template": "birth date and age"
         }
       ],
