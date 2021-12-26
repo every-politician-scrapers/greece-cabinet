@@ -1,0 +1,28 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q3409203,President of Greece,Q41,Q41,,,1974-12-18,,,,President of Greece
+Q4377230,Prime Minister of Greece,Q41,Q41,,Q744101,1822-01-13,,,,Prime Minister of Greece
+Q3394691,Deputy Prime Minister of Greece,Q41,Q41,,,,,,,Deputy Prime Minister of Greece
+Q20128305,Minister of Agricultural Development and Food of Greece,Q41,Q41,,,,,,,
+Q23901401,Minister of Administrative Reform and Electronic Governance of Greece,Q41,Q41,,,,,,,
+Q109638192,Minister of Climate Crisis and Civil Protection of Greece,,Q41,,,,,,,
+Q19904334,Minister of Culture of Greece,Q41,Q41,,,,,,,
+Q19943050,Minister of Development of Greece,Q41,Q41,,,,,,,
+Q95229560,Minister of Digital Governance,Q41,Q41,,,,,,,
+Q23901405,Minister of Economy and Finance of Greece,Q41,Q41,,,,,,,
+Q23901444,"Minister of Education, Culture and Sport",Q41,Q41,,,,,,,
+Q23901445,"Minister of Environment, Energy and Climate Change",Q41,Q41,,,,,,,
+Q16147098,Minister for Foreign Affairs of Greece,Q41,Q41,Q23835941,Q1247282,1833,,,,Minister for Foreign Affairs (Greece)
+Q23901083,Minister of Health of Greece,Q41,Q41,,,,,,,
+Q19858317,Greek Minister of the Interior,Q41,Q41,,,,,,,
+Q19860560,Minister of Justice of Greece,Q41,Q41,,,,,,,
+Q95224040,Minister for Labour and Social Affairs,Q41,Q41,,,,,,,
+Q23901435,Minister of Marine and the Aegean,Q41,Q41,,,,,,,
+Q6865935,Minister for National Defence of Greece,Q41,Q41,,,,,,,Minister for National Defence (Greece)
+Q19858443,Minister of National Education and Religious Affairs of Greece,Q41,Q41,,,,,,,
+Q20128304,Minister of Tourism of Greece,Q41,Q41,,,,,,,
+Q23901451,Minister for the Protection of the Citizen,Q41,Q41,,,,,,,
+Q3559112,Minister of State of Greece,Q41,Q41,,,2004-03-10,,,,Minister of State (Greece)
+Q7574264,Speaker of the Hellenic Parliament,Q41,Q41,,,,,,,Speaker of the Hellenic Parliament
+Q109639036,Governor of the Bank of Greece,Q41,,,,,,,,
+Q26722162,Chief of the Hellenic National Defence General Staff,Q41,Q2606039,,,1950,,,,
+Q20639919,Mayor of Athens,Q41,Q1224979,,Q3394348,1836,,,,
