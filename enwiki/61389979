@@ -14,7 +14,7 @@
         {
           "sentences": [
             {
-              "text": "Kyriakos Pierrakakis is a Greek computer and political scientist, politician, and Minister of State and Digital Governance in the Cabinet of Kyriakos Mitsotakis.",
+              "text": "Kyriakos Pierrakakis (Κυριάκος Πιερρακάκης; born 1983) is a Greek computer and political scientist, politician, and Minister of State and Digital Governance in the Cabinet of Kyriakos Mitsotakis.",
               "links": [
                 {
                   "type": "internal",
@@ -34,6 +34,10 @@
         {
           "description": "Greek politician",
           "template": "short description"
+        },
+        {
+          "date": "January 2020",
+          "template": "improve categories"
         }
       ],
       "references": [
