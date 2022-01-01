@@ -227,13 +227,14 @@
             "text": "May 30, 1956"
           },
           "birth_place": {
-            "text": "Thessaloniki, Kingdom of Greece",
+            "text": "Thessaloniki, Greece",
             "links": [
               {
                 "type": "internal",
                 "page": "Thessaloniki"
               },
               {
+                "text": "Greece",
                 "type": "internal",
                 "page": "Kingdom of Greece"
               }
@@ -262,6 +263,9 @@
                 "page": "Athens"
               }
             ]
+          },
+          "spouse": {
+            "text": "... (div.)"
           },
           "partner": {
             "text": "Pavlos Kotsonis"
