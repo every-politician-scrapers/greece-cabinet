@@ -134,36 +134,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "last": "Todorović",
-          "first": "Igor",
-          "date": "8 January 2021",
-          "title": "Kostas Skrekas becomes Minister of the Environment and Energy of Greece",
-          "work": "Balkan Green Energy News",
-          "url": "https://balkangreenenergynews.com/kostas-skrekas-becomes-minister-of-the-environment-and-energy-of-greece/",
-          "url-status": "live",
-          "access-date": "6 February 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "4 January 2021",
-          "title": "Government cabinet reshuffle includes Greece’s first openly gay minister",
-          "work": "Greek City Times",
-          "url": "https://greekcitytimes.com/2021/01/04/government-cabinet-reshuffle/",
-          "url-status": "live",
-          "access-date": "6 February 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

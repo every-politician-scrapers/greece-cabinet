@@ -288,38 +288,6 @@
             "text": "Katerina Sakellaropoulou signature.svg"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.facebook.com/katerina.sakellaropoulou.169",
-          "title": "Katerina Sakellaropoulou",
-          "website": "Facebook",
-          "access-date": "23 January 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.presidency.gr/en/president/",
-          "title": "President – Presidency of the Hellenic Republic",
-          "language": "en-GB",
-          "access-date": "2020-03-15",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.kathimerini.gr/1061315/gallery/epikairothta/politikh/proedros-ths-dhmokratias-e3elegh-h-aikaterinh-sakellaropoyloy",
-          "title": "Πρόεδρος της Δημοκρατίας εξελέγη η Αικατερίνη Σακελλαροπούλου, του Γιώργου Σ. Μπουρδάρα {{!}} Kathimerini",
-          "website": "kathimerini.gr",
-          "access-date": "2020-01-22",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

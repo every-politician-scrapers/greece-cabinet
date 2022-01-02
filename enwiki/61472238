@@ -237,36 +237,6 @@
             "text": "el"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Επιτροπές - Λεπτομέρειες",
-          "trans-title": "Committees - Details",
-          "url": "https://www.hellenicparliament.gr/en/Koinovouleftikes-Epitropes/CommiteeDetailView?CommitteeId=89bd2c29-e495-4c92-961c-a626279b7d00&period=26c28f97-f651-4937-85dc-a52600fb148e",
-          "url-status": "live",
-          "access-date": "2021-10-29",
-          "website": "www.hellenicparliament.gr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Επιτροπές - Λεπτομέρειες",
-          "trans-title": "Committees - Details",
-          "url": "https://www.hellenicparliament.gr/en/Koinovouleftikes-Epitropes/CommiteeDetailView?CommitteeId=9739559c-3495-43cc-98f7-9e892bc9b28d&period=26c28f97-f651-4937-85dc-a52600fb148e",
-          "url-status": "live",
-          "access-date": "2021-10-29",
-          "website": "www.hellenicparliament.gr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "CVs",
-          "url": "https://www.hellenicparliament.gr/en/Vouleftes/Viografika-Stoicheia/?MPId=c7362b4e-73b1-49ee-bcc0-a4340151de8c",
-          "website": "www.hellenicparliament.gr",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

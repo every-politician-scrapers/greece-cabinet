@@ -259,28 +259,6 @@
             }
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.ste.gr/FL/main_en.htm",
-          "title": "Council of State",
-          "publisher": "Ste.gr",
-          "date": "2007-05-09",
-          "access-date": "2012-05-16",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20120501142205/http://www.ste.gr/FL/main_en.htm",
-          "archive-date": "2012-05-01",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.independent.co.uk/news/world/europe/judge-panagiotis-pikramenos-named-as-greek-caretaker-pm-as-elections-set-for-17-june-7757485.html",
-          "title": "Judge Panagiotis Pikramenos named as Greek caretaker PM as elections set for 17 June",
-          "newspaper": "The Independent",
-          "date": "16 May 2012",
-          "template": "citation",
-          "type": "citation"
-        }
       ]
     }
   ]

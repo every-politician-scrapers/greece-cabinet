@@ -125,37 +125,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Spilios Livanos",
-          "url": "https://www.livanos.gr/spilios-livanos/",
-          "url-status": "live",
-          "access-date": "6 February 2021",
-          "website": "livanos.gr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "4 January 2021",
-          "title": "Government cabinet reshuffle includes Greece’s first openly gay minister",
-          "work": "Greek City Times",
-          "url": "https://greekcitytimes.com/2021/01/04/government-cabinet-reshuffle/",
-          "url-status": "live",
-          "access-date": "6 February 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "5 January 2021",
-          "title": "New Ministers Assume Duties at Greek Interior Ministry",
-          "work": "The National Herald",
-          "url": "https://www.thenationalherald.com/greece_politics/arthro/new_ministers_assume_duties_at_greek_interior_ministry-1524767/",
-          "url-status": "live",
-          "access-date": "6 February 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
