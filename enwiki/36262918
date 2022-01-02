@@ -255,49 +255,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.washingtonpost.com/business/economy/greek-pm-samaras-names-prominent-economist-yiannis-stournaras-as-new-finance-minister/2012/06/26/gJQAs1tw3V_story.html",
-          "title": "Greek PM Samaras names prominent economist Yiannis Stournaras as new finance minister",
-          "work": "Washington Post",
-          "access-date": "26 June 2012}}{{dead link|date=June 2021|bot=medic}}{{cbignore|bot=medic}} |undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Greek PM appoints economist Hardouvelis as new finance minister",
-          "url": "https://www.reuters.com/article/greece-cabinet-idUSA8N0O800220140609",
-          "access-date": "9 June 2014",
-          "agency": "Reuters",
-          "date": "9 June 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.imf.org/external/np/sec/memdir/members.aspx",
-          "title": "IMF Official Website - Board of Governors",
-          "work": "I.M.F.",
-          "access-date": "19 June 2015",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.kathimerini.gr/4dcgi/_w_articles_kathremote_1_26/06/2012_449017",
-          "title": "Ο Γ. Στουρνάρας νέος υπουργός Οικονομικών",
-          "newspaper": "Kathimerini",
-          "date": "26 June 2012",
-          "access-date": "26 June 2012",
-          "language": "el",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

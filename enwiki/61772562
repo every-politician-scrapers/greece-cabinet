@@ -320,26 +320,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.tovima.gr/2019/07/17/international/tasoulas-to-be-elected-parliament-speaker-with-broad-nd-syriza-backing/",
-          "title": "Tasoulas elected Parliament Speaker with broad, five-party backing",
-          "first": "ΤοΒΗΜΑ",
-          "last": "Team",
-          "date": "17 July 2019",
-          "website": "Ειδήσεις - νέα - Το Βήμα Online",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Election of Mr.Konstantinos Tasoulas in the position of the Speaker of the Parliament",
-          "url": "https://vouliwatch.gr/votewatch/voting/9021ed2b-62ef-4175-9359-126506d0ec79",
-          "url-status": "live",
-          "website": "Vouliwatch (in Greek)",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

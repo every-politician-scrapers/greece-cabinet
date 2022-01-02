@@ -123,54 +123,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "CV",
-          "url": "https://www.hellenicparliament.gr/en/Vouleftes/Viografika-Stoicheia/?MPId=5833f694-9941-4496-9789-40ee4e019dcf",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20190709184046/https://www.hellenicparliament.gr/en/Vouleftes/Viografika-Stoicheia/?MPId=5833f694-9941-4496-9789-40ee4e019dcf",
-          "archive-date": "9 July 2019",
-          "access-date": "21 August 2020",
-          "website": "Hellenic Parliament",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Nikolaos Panagiotopoulos",
-          "url": "http://www.mod.mil.gr/en/minister-national-defence",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20200704050008/http://www.mod.mil.gr/en/minister-national-defence",
-          "archive-date": "4 July 2020",
-          "access-date": "21 August 2020",
-          "website": "Ministry of National Defence",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "9 July 2019",
-          "title": "New Greek PM sworn in and a new Cabinet is announced",
-          "work": "Neos Kosmos",
-          "url": "https://neoskosmos.com/en/140815/new-greek-pm-sworn-in-and-a-new-cabinet-is-announced/",
-          "url-status": "live",
-          "access-date": "22 August 2020",
-          "archive-url": "https://web.archive.org/web/20200822093150/https://neoskosmos.com/en/140815/new-greek-pm-sworn-in-and-a-new-cabinet-is-announced/",
-          "archive-date": "22 August 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "9 July 2019",
-          "title": "The Composition of the New Greek Government",
-          "work": "The National Herald",
-          "url": "https://www.thenationalherald.com/archive_politics/arthro/the_composition_of_the_new_greek_government-53753/",
-          "url-status": "live",
-          "access-date": "22 August 2020",
-          "archive-url": "https://web.archive.org/web/20200822093654/https://www.thenationalherald.com/archive_politics/arthro/the_composition_of_the_new_greek_government-53753/",
-          "archive-date": "22 August 2020",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

@@ -122,43 +122,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "9 July 2019",
-          "title": "New Greek PM sworn in and a new Cabinet is announced",
-          "work": "Neos Kosmos",
-          "url": "https://neoskosmos.com/en/140815/new-greek-pm-sworn-in-and-a-new-cabinet-is-announced/",
-          "url-status": "live",
-          "access-date": "22 August 2020",
-          "archive-url": "https://web.archive.org/web/20200822093150/https://neoskosmos.com/en/140815/new-greek-pm-sworn-in-and-a-new-cabinet-is-announced/",
-          "archive-date": "22 August 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "9 July 2019",
-          "title": "The Composition of the New Greek Government",
-          "work": "The National Herald",
-          "url": "https://www.thenationalherald.com/archive_politics/arthro/the_composition_of_the_new_greek_government-53753/",
-          "url-status": "live",
-          "access-date": "22 August 2020",
-          "archive-url": "https://web.archive.org/web/20200822093654/https://www.thenationalherald.com/archive_politics/arthro/the_composition_of_the_new_greek_government-53753/",
-          "archive-date": "22 August 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Lina Mendoni",
-          "url": "https://www.culture.gov.gr/en/ministry/SitePages/political_leadership.aspx?role=%CE%A5%CF%80%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20201102010806/https://www.culture.gov.gr/en/ministry/SitePages/political_leadership.aspx?role=%CE%A5%CF%80%CE%BF%CF%85%CF%81%CE%B3%CF%8C%CF%82",
-          "archive-date": "2 November 2020",
-          "access-date": "18 February 2021",
-          "website": "Ministry of Culture and Sports",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -220,62 +220,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Boukala",
-          "first": "Salomi",
-          "date": "2021-06-08",
-          "title": "‘We need to talk about the hegemony of the left’: The normalisation of extreme right discourse in Greece",
-          "url": "http://www.jbe-platform.com/content/journals/10.1075/jlp.19053.bou",
-          "journal": "Journal of Language and Politics",
-          "language": "en",
-          "volume": "20",
-          "issue": "3",
-          "pages": "361–382",
-          "doi": "10.1075/jlp.19053.bou",
-          "issn": "1569-2159",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "last": "Vasilopoulou",
-          "first": "Sofia",
-          "last2": "Halikiopoulou",
-          "first2": "Daphne",
-          "date": "2013-12-01",
-          "title": "In the Shadow of Grexit: The Greek Election of 17 June 2012",
-          "url": "https://doi.org/10.1080/13608746.2013.779784",
-          "journal": "South European Society and Politics",
-          "volume": "18",
-          "issue": "4",
-          "pages": "523–542",
-          "doi": "10.1080/13608746.2013.779784",
-          "issn": "1360-8746",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "url": "https://www.worldcat.org/oclc/1002303813",
-          "title": "Populism and the Web : communicative practices of parties and movements in Europe",
-          "date": "2018",
-          "others": "Mojca Pajnik, Birgit Sauer",
-          "isbn": "978-1-315-10195-8",
-          "location": "Abingdon, Oxon",
-          "oclc": "1002303813",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "title": "Jewish community seeks apology from newly appointed minister",
-          "publisher": "eKathimerini.com",
-          "url": "https://www.ekathimerini.com/news/1167192/jewish-community-seeks-apology-from-newly-appointed-minister/",
-          "access-date": "2021-09-04",
-          "website": "www.ekathimerini.com",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
