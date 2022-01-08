@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Athanasios (Thanos) Plevris (Αθανάσιος (Θάνος) Πλεύρης; born 21 May 1977 in Athens) is a Greek politician and son of nationalist author Konstantinos Plevris.",
+              "text": "Athanasios (Thanos) Plevris (Αθανάσιος (Θάνος) Πλεύρης; born 21 May 1977 in Athens) is a Greek politician and son of nationalist, neo-fascist author Konstantinos Plevris.",
               "links": [
                 {
                   "type": "internal",
@@ -35,6 +35,11 @@
                   "text": "nationalist",
                   "type": "internal",
                   "page": "Greek nationalism"
+                },
+                {
+                  "text": "neo-fascist",
+                  "type": "internal",
+                  "page": "Neo-fascism"
                 },
                 {
                   "type": "internal",
