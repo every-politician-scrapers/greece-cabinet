@@ -67,6 +67,10 @@
           "template": "short description"
         },
         {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
           "list": [
             "2019",
             "7",
