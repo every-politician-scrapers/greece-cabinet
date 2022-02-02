@@ -83,6 +83,10 @@
       ],
       "templates": [
         {
+          "description": "Greek Cypriot politician",
+          "template": "short description"
+        },
+        {
           "date": "September 2014",
           "template": "blp sources"
         },
