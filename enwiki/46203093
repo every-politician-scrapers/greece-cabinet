@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Panagiotis A. Mitarachi (Παναγιώτης (Νότης) Μηταράκης), known as Notis Mitarachi, is a Greek politician.",
+              "text": "Panagiotis A. Mitarakis (Παναγιώτης (Νότης) Μηταράκης), known as Notis Mitarakis, is a Greek politician.",
               "links": [
                 {
                   "text": "Greek",
@@ -40,8 +40,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Panagiotis A. Mitarachi",
-                  "Notis Mitarachi"
+                  "Panagiotis A. Mitarakis",
+                  "Notis Mitarakis"
                 ]
               }
             },
@@ -115,7 +115,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Notis Mitarachi"
+            "text": "Notis Mitarakis"
           },
           "native_name": {
             "text": "Νότης Μηταράκης"
