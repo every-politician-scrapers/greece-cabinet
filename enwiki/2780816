@@ -111,15 +111,6 @@
                   "page": "2019 Greek legislative election"
                 }
               ]
-            },
-            {
-              "text": "He is the son of former Prime Minister Konstantinos Mitsotakis.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Konstantinos Mitsotakis"
-                }
-              ]
             }
           ]
         }
@@ -376,11 +367,11 @@
             ]
           },
           "father": {
-            "text": "Konstantinos Mitsotakis",
+            "text": "Teris Xrisos",
             "links": [
               {
                 "type": "internal",
-                "page": "Konstantinos Mitsotakis"
+                "page": "Teris Xrisos"
               }
             ]
           },
