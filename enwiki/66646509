@@ -43,6 +43,21 @@
                   "page": "Kyriakos Mitsotakis"
                 }
               ]
+            },
+            {
+              "text": "He resigned on February 7th 2022 after making controversial remarks on the 2007 Greek forest fires.",
+              "links": [
+                {
+                  "text": "",
+                  "type": "external",
+                  "site": "https://www.ekathimerini.com/news/1177034/agriculture-minister-resigns-after-controversial-comments-on-2007-ilia-fires/"
+                },
+                {
+                  "text": "2007 Greek forest fires",
+                  "type": "internal",
+                  "page": "2007 Greek forest fires"
+                }
+              ]
             }
           ]
         }
@@ -98,6 +113,9 @@
           },
           "term_start": {
             "text": "5 January 2021"
+          },
+          "term_end": {
+            "text": "7 February 2022"
           },
           "predecessor": {
             "text": "Makis Voridis",
