@@ -306,8 +306,9 @@
             "text": "Corfu, Greece",
             "links": [
               {
+                "text": "Corfu",
                 "type": "internal",
-                "page": "Corfu"
+                "page": "Corfu (city)"
               }
             ]
           },
