@@ -1,0 +1,10 @@
+ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q60137773,13th Hellenic Parliament,,,,,,,,,,,,,,,Q60138379,12th Hellenic Parliament,Q60136193,14th Hellenic Parliament
+,Q60138379,12th Hellenic Parliament,,,,,,,,,,,Q61734430,11th Hellenic Parliament,,,,,Q60137773,13th Hellenic Parliament
+14,Q60136193,14th Hellenic Parliament,2012-06-05,2012-05-19,2012-06-05,11,2012-05-17,11,,,2012-05-19,11,,,,,Q60137773,13th Hellenic Parliament,Q17425867,15th Hellenic Parliament
+14,Q60136193,14th Hellenic Parliament,2012-06-05,2012-05-19,2012-06-05,11,2012-06-05,11,,,2012-05-19,11,,,,,Q60137773,13th Hellenic Parliament,Q17425867,15th Hellenic Parliament
+15,Q17425867,15th Hellenic Parliament,2012-06-17,2014-12-31,2012-06-17,11,2012-06-17,11,,,2014-12-31,11,,,,,Q60136193,14th Hellenic Parliament,Q25379970,16th Hellenic Parliament
+15,Q17425867,15th Hellenic Parliament,2012-06-17,2014-12-31,2012-06-17,11,2012-06-28,11,,,2014-12-31,11,,,,,Q60136193,14th Hellenic Parliament,Q25379970,16th Hellenic Parliament
+16,Q25379970,16th Hellenic Parliament,2015-01-25,2015-08-28,2015-01-25,11,2015-01-25,11,2015-08-28,11,2015-08-28,11,,,,,Q17425867,15th Hellenic Parliament,Q28846500,17th Hellenic Parliament
+17,Q28846500,17th Hellenic Parliament,2015-09-20,,2015-09-20,11,2015-09-20,11,,,,,,,,,Q25379970,16th Hellenic Parliament,Q65459692,18th Hellenic Parliament
+18,Q65459692,18th Hellenic Parliament,2019-07-01,,2019-07-01,10,,,,,,,,,,,Q28846500,17th Hellenic Parliament,,
