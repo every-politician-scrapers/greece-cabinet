@@ -1,294 +1,35 @@
 {
-  "title": "Notis Mitarachi",
-  "pageID": 46203093,
-  "categories": [
-    "1972 births",
-    "Politicians from Athens",
-    "Living people",
-    "Greek government-debt crisis",
-    "Greek MPs 2012 (May)",
-    "Greek MPs 2012–2014",
-    "Greek MPs 2015 (February–August)",
-    "Greek MPs 2015–2019",
-    "Greek MPs 2019–2023",
-    "New Democracy (Greece) politicians",
-    "INSEAD alumni",
-    "CFA charterholders",
-    "Alumni of the University of Oxford",
-    "Greek people of Egyptian descent"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Panagiotis A. Mitarakis (Παναγιώτης (Νότης) Μηταράκης), known as Notis Mitarakis, is a Greek politician.",
-              "links": [
-                {
-                  "text": "Greek",
-                  "type": "internal",
-                  "page": "Greece"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Panagiotis A. Mitarakis",
-                  "Notis Mitarakis"
-                ]
-              }
-            },
-            {
-              "text": "He serves as Minister of Migration and Asylum, and is a member of the Hellenic Parliament for Chios with New Democracy.",
-              "links": [
-                {
-                  "text": "Minister of Migration and Asylum",
-                  "type": "internal",
-                  "page": "Ministry of Migration and Asylum (Greece)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hellenic Parliament"
-                },
-                {
-                  "text": "Chios",
-                  "type": "internal",
-                  "page": "Chios (regional unit)"
-                },
-                {
-                  "text": "New Democracy",
-                  "type": "internal",
-                  "page": "New Democracy (Greece)"
-                }
-              ]
-            },
-            {
-              "text": "He was a President of the Council of the European Union (Foreign Affairs – Trade) during the Hellenic Presidency, and is a former Deputy Minister for Economic Development and Competitiveness.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Council of the European Union"
-                },
-                {
-                  "text": "Foreign Affairs",
-                  "type": "internal",
-                  "page": "Foreign Affairs Council"
-                },
-                {
-                  "text": "Hellenic Presidency",
-                  "type": "internal",
-                  "page": "Presidency of the Council of the European Union"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Greek politician",
-          "template": "short description"
-        },
-        {
-          "date": "November 2020",
-          "template": "blp primary sources"
-        },
-        {
-          "date": "July 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1972",
-          "month": "10",
-          "day": "07",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Notis Mitarakis"
-          },
-          "native_name": {
-            "text": "Νότης Μηταράκης"
-          },
-          "image": {
-            "text": "Νότης Μηταράκης 02.jpg"
-          },
-          "office": {
-            "text": "Minister of Migration and Asylum"
-          },
-          "term_start": {
-            "text": "15 January 2020"
-          },
-          "primeminister": {
-            "text": "Kyriakos Mitsotakis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kyriakos Mitsotakis"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Deputy Minister for Labor and Social Affairs"
-          },
-          "term_start1": {
-            "text": "9 July 2019"
-          },
-          "term_end1": {
-            "text": "15 January 2020"
-          },
-          "primeminister1": {
-            "text": "Kyriakos Mitsotakis"
-          },
-          "office2": {
-            "text": "Member of the Hellenic Parliament for Chios",
-            "links": [
-              {
-                "text": "Member of the Hellenic Parliament",
-                "type": "internal",
-                "page": "Hellenic Parliament"
-              },
-              {
-                "text": "Chios",
-                "type": "internal",
-                "page": "Chios (regional unit)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "25 January 2015"
-          },
-          "office3": {
-            "text": "Shadow Minister for Social Security"
-          },
-          "term_start3": {
-            "text": "18 November 2016"
-          },
-          "term_end3": {
-            "text": "8 July 2019"
-          },
-          "office4": {
-            "text": "Shadow Minister for Shipping and the Aegean"
-          },
-          "term_start4": {
-            "text": "18 March 2015"
-          },
-          "term_end4": {
-            "text": "21 January 2016"
-          },
-          "office5": {
-            "text": "Deputy Minister for Economic Development and Competitiveness"
-          },
-          "term_start5": {
-            "text": "21 June 2012"
-          },
-          "term_end5": {
-            "text": "28 January 2015"
-          },
-          "primeminister5": {
-            "text": "Antonis Samaras",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antonis Samaras"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of the Hellenic Parliament for Athens A",
-            "links": [
-              {
-                "text": "Member of the Hellenic Parliament",
-                "type": "internal",
-                "page": "Hellenic Parliament"
-              },
-              {
-                "type": "internal",
-                "page": "Athens A"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "6 May 2012"
-          },
-          "term_end6": {
-            "text": "31 December 2014"
-          },
-          "birth_date": {
-            "text": "October 7, 1972"
-          },
-          "birth_place": {
-            "text": "Athens, Greece",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Athens"
-              },
-              {
-                "text": "Greece",
-                "type": "internal",
-                "page": "Kingdom of Greece"
-              }
-            ]
-          },
-          "party": {
-            "text": "New Democracy",
-            "links": [
-              {
-                "text": "New Democracy",
-                "type": "internal",
-                "page": "New Democracy (Greece)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Maria Dourida"
-          },
-          "children": {
-            "text": "1 daughter"
-          },
-          "alma_mater": {
-            "text": "INSEAD University of Oxford The American College of Greece",
-            "links": [
-              {
-                "type": "internal",
-                "page": "INSEAD"
-              },
-              {
-                "type": "internal",
-                "page": "University of Oxford"
-              },
-              {
-                "type": "internal",
-                "page": "The American College of Greece"
-              }
-            ]
-          },
-          "website": {
-            "text": "http://www.mitarakis.gr"
-          },
-          "nationality": {
-            "text": "🇬🇷 Greek",
-            "links": [
-              {
-                "text": "🇬🇷",
-                "type": "internal",
-                "page": "greece"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Notis Mitarakis",
+  "native_name": "Νότης Μηταράκης",
+  "image": "Νότης Μηταράκης 02.jpg",
+  "office": "Minister of Migration and Asylum",
+  "term_start": "15 January 2020",
+  "primeminister": "Kyriakos Mitsotakis",
+  "office1": "Deputy Minister for Labor and Social Affairs",
+  "term_start1": "9 July 2019",
+  "term_end1": "15 January 2020",
+  "primeminister1": "Kyriakos Mitsotakis",
+  "office2": "Member of the Hellenic Parliament for Chios",
+  "term_start2": "25 January 2015",
+  "office3": "Shadow Minister for Social Security",
+  "term_start3": "18 November 2016",
+  "term_end3": "8 July 2019",
+  "office4": "Shadow Minister for Shipping and the Aegean",
+  "term_start4": "18 March 2015",
+  "term_end4": "21 January 2016",
+  "office5": "Deputy Minister for Economic Development and Competitiveness",
+  "term_start5": "21 June 2012",
+  "term_end5": "28 January 2015",
+  "primeminister5": "Antonis Samaras",
+  "office6": "Member of the Hellenic Parliament for Athens A",
+  "term_start6": "6 May 2012",
+  "term_end6": "31 December 2014",
+  "birth_date": "October 7, 1972",
+  "birth_place": "Athens, Greece",
+  "party": "New Democracy",
+  "spouse": "Maria Dourida",
+  "children": "1 daughter",
+  "alma_mater": "INSEAD University of Oxford The American College of Greece",
+  "website": "http://www.mitarakis.gr",
+  "nationality": "🇬🇷 Greek"
 }

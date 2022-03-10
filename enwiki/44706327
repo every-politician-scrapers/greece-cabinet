@@ -1,349 +1,38 @@
 {
-  "title": "Nikos Dendias",
-  "pageID": 44706327,
-  "categories": [
-    "1959 births",
-    "Greek lawyers",
-    "Living people",
-    "National and Kapodistrian University of Athens alumni",
-    "Alumni of University College London",
-    "Alumni of the London School of Economics",
-    "Politicians from Corfu",
-    "New Democracy (Greece) politicians",
-    "Greek MPs 2004–2007",
-    "Greek MPs 2007–2009",
-    "Greek MPs 2009–2012",
-    "Greek MPs 2012 (May)",
-    "Greek MPs 2012–2014",
-    "Greek MPs 2015 (February–August)",
-    "Greek MPs 2015–2019",
-    "Greek MPs 2019–2023",
-    "MPs of Corfu",
-    "Ministers of National Defence of Greece",
-    "Justice ministers of Greece",
-    "Ministers of Public Order of Greece",
-    "Foreign ministers of Greece"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nikolaos \"Nikos\" Dendias (Νικόλαος Δένδιας; born 7 October 1959) is a Greek lawyer and politician of the conservative New Democracy party.",
-              "links": [
-                {
-                  "text": "New Democracy",
-                  "type": "internal",
-                  "page": "New Democracy (Greece)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nikolaos",
-                  "Nikos",
-                  "Dendias"
-                ]
-              }
-            },
-            {
-              "text": "He is a Member of the Hellenic Parliament for Corfu, and was Minister for National Defence from November 2014 to January 2015.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of the Hellenic Parliament"
-                },
-                {
-                  "type": "internal",
-                  "page": "Corfu"
-                },
-                {
-                  "text": "Minister for National Defence",
-                  "type": "internal",
-                  "page": "Minister for National Defence (Greece)"
-                }
-              ]
-            },
-            {
-              "text": "As of 2022, he is the current Foreign Minister of Greece.",
-              "links": [
-                {
-                  "text": "Foreign Minister of Greece",
-                  "type": "internal",
-                  "page": "Minister for Foreign Affairs (Greece)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "September 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "description": "Greek politician",
-          "template": "short description"
-        },
-        {
-          "year": "1959",
-          "month": "10",
-          "day": "7",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Nikolaos Dendias\nΝικόλαος Δένδιας"
-          },
-          "image": {
-            "text": "NikosDendias.jpg"
-          },
-          "office": {
-            "text": "Minister for Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister for Foreign Affairs",
-                "type": "internal",
-                "page": "Minister for Foreign Affairs (Greece)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Kyriakos Mitsotakis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kyriakos Mitsotakis"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "9 July 2019"
-          },
-          "predecessor": {
-            "text": "Georgios Katrougalos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Georgios Katrougalos"
-              }
-            ]
-          },
-          "office1": {
-            "text": "President of the Committee of Ministers of the Council of Europe",
-            "links": [
-              {
-                "text": "President of the Committee of Ministers of the Council of Europe",
-                "type": "internal",
-                "page": "Committee of Ministers of the Council of Europe"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "15 May 2020"
-          },
-          "term_end1": {
-            "text": "18 November 2020"
-          },
-          "predecessor1": {
-            "text": "David Zalkaliani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Zalkaliani"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Heiko Maas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Heiko Maas"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister for Justice",
-            "links": [
-              {
-                "text": "Minister for Justice",
-                "type": "internal",
-                "page": "Minister for Justice (Greece)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "8 January 2009"
-          },
-          "term_end2": {
-            "text": "7 October 2009"
-          },
-          "predecessor2": {
-            "text": "Sotirios Hatzigakis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sotirios Hatzigakis"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Haris Kastanidis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Haris Kastanidis"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister for Public Order and Citizen Protection",
-            "links": [
-              {
-                "text": "Minister for Public Order and Citizen Protection",
-                "type": "internal",
-                "page": "Minister for Public Order and Citizen Protection (Greece)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "21 June 2012"
-          },
-          "term_end3": {
-            "text": "10 June 2014"
-          },
-          "predecessor3": {
-            "text": "Eleftherios Oikonomou",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eleftherios Oikonomou"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Vassilis Kikilias",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vassilis Kikilias"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister for Development and Competitiveness",
-            "links": [
-              {
-                "text": "Minister for Development and Competitiveness",
-                "type": "internal",
-                "page": "Minister for Development and Competitiveness (Greece)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "10 June 2014"
-          },
-          "term_end4": {
-            "text": "3 November 2014"
-          },
-          "predecessor4": {
-            "text": "Kostis Chatzidakis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kostis Chatzidakis"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Konstantinos Skrekas"
-          },
-          "office5": {
-            "text": "Minister for National Defence",
-            "links": [
-              {
-                "text": "Minister for National Defence",
-                "type": "internal",
-                "page": "Minister for National Defence (Greece)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "3 November 2014"
-          },
-          "term_end5": {
-            "text": "27 January 2015"
-          },
-          "predecessor5": {
-            "text": "Dimitris Avramopoulos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dimitris Avramopoulos"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Panos Kammenos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Panos Kammenos"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 7, 1959"
-          },
-          "birth_place": {
-            "text": "Corfu, Greece",
-            "links": [
-              {
-                "text": "Corfu",
-                "type": "internal",
-                "page": "Corfu (city)"
-              }
-            ]
-          },
-          "party": {
-            "text": "New Democracy",
-            "links": [
-              {
-                "text": "New Democracy",
-                "type": "internal",
-                "page": "New Democracy (Greece)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "National and Kapodistrian University of Athens\nUniversity College London\nLondon School of Economics",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National and Kapodistrian University of Athens"
-              },
-              {
-                "type": "internal",
-                "page": "University College London"
-              },
-              {
-                "type": "internal",
-                "page": "London School of Economics"
-              }
-            ]
-          },
-          "website": {
-            "text": "www.mfa.gr"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Nikolaos Dendias\nΝικόλαος Δένδιας",
+  "image": "NikosDendias.jpg",
+  "office": "Minister for Foreign Affairs",
+  "primeminister": "Kyriakos Mitsotakis",
+  "term_start": "9 July 2019",
+  "predecessor": "Georgios Katrougalos",
+  "office1": "President of the Committee of Ministers of the Council of Europe",
+  "term_start1": "15 May 2020",
+  "term_end1": "18 November 2020",
+  "predecessor1": "David Zalkaliani",
+  "successor1": "Heiko Maas",
+  "office2": "Minister for Justice",
+  "term_start2": "8 January 2009",
+  "term_end2": "7 October 2009",
+  "predecessor2": "Sotirios Hatzigakis",
+  "successor2": "Haris Kastanidis",
+  "office3": "Minister for Public Order and Citizen Protection",
+  "term_start3": "21 June 2012",
+  "term_end3": "10 June 2014",
+  "predecessor3": "Eleftherios Oikonomou",
+  "successor3": "Vassilis Kikilias",
+  "office4": "Minister for Development and Competitiveness",
+  "term_start4": "10 June 2014",
+  "term_end4": "3 November 2014",
+  "predecessor4": "Kostis Chatzidakis",
+  "successor4": "Konstantinos Skrekas",
+  "office5": "Minister for National Defence",
+  "term_start5": "3 November 2014",
+  "term_end5": "27 January 2015",
+  "predecessor5": "Dimitris Avramopoulos",
+  "successor5": "Panos Kammenos",
+  "birth_date": "October 7, 1959",
+  "birth_place": "Corfu, Greece",
+  "party": "New Democracy",
+  "alma_mater": "National and Kapodistrian University of Athens\nUniversity College London\nLondon School of Economics",
+  "website": "www.mfa.gr"
 }

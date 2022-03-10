@@ -1,231 +1,29 @@
 {
-  "title": "Thanos Plevris",
-  "pageID": 13345162,
-  "categories": [
-    "Greek MPs 2007–2009",
-    "Popular Orthodox Rally politicians",
-    "1977 births",
-    "Living people",
-    "Greek MPs 2009–2012",
-    "Popular Orthodox Rally MEPs",
-    "MEPs for Greece 2009–2014",
-    "Politicians from Athens",
-    "Greek MPs 2019–2023"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Athanasios (Thanos) Plevris (Αθανάσιος (Θάνος) Πλεύρης; born 21 May 1977 in Athens) is a Greek politician and son of nationalist, neo-fascist author Konstantinos Plevris.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Athens"
-                },
-                {
-                  "text": "Greek",
-                  "type": "internal",
-                  "page": "Greeks"
-                },
-                {
-                  "text": "nationalist",
-                  "type": "internal",
-                  "page": "Greek nationalism"
-                },
-                {
-                  "text": "neo-fascist",
-                  "type": "internal",
-                  "page": "Neo-fascism"
-                },
-                {
-                  "type": "internal",
-                  "page": "Konstantinos Plevris"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Athanasios",
-                  "Thanos",
-                  "Plevris"
-                ]
-              }
-            },
-            {
-              "text": "He is currently serving as the Minister for Health under the cabinet of Kyriakos Mitsotakis.",
-              "links": [
-                {
-                  "text": "cabinet of Kyriakos Mitsotakis",
-                  "type": "internal",
-                  "page": "cabinet of Kyriakos Mitsotakis"
-                }
-              ]
-            },
-            {
-              "text": "Plevris is often described as a radical right and islamophobic voice in Greek politics."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Greek politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "imagesize": {
-            "text": "150px"
-          },
-          "name": {
-            "text": "Thanos Plevris"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "member of parliament"
-              }
-            ],
-            "formatting": {
-              "bold": [
-                "MP"
-              ]
-            }
-          },
-          "caption": {
-            "text": "Athanasios (Thanos) Plevris"
-          },
-          "office": {
-            "text": "Minister for Health",
-            "links": [
-              {
-                "text": "Minister for Health",
-                "type": "internal",
-                "page": "Ministry of Health (Greece)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Kyriakos Mitsotakis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kyriakos Mitsotakis"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "31 August 2021"
-          },
-          "predecessor": {
-            "text": "Vasilis Kikilias",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vasilis Kikilias"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of the Hellenic Parliament for Athens A"
-          },
-          "term_start1": {
-            "text": "7 July 2019"
-          },
-          "term_start2": {
-            "text": "3 November 2014"
-          },
-          "term_end2": {
-            "text": "25 January 2015"
-          },
-          "term_start3": {
-            "text": "4 October 2009"
-          },
-          "term_end3": {
-            "text": "11 April 2012"
-          },
-          "term_start4": {
-            "text": "16 September 2007"
-          },
-          "term_end4": {
-            "text": "3 July 2009"
-          },
-          "office5": {
-            "text": "Member of the European Parliament for Greece"
-          },
-          "term_start5": {
-            "text": "3 July 2009"
-          },
-          "term_end5": {
-            "text": "4 October 2009"
-          },
-          "birth_date": {
-            "text": "21 May 1977"
-          },
-          "birth_place": {
-            "text": "Athens, Greece",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Athens"
-              },
-              {
-                "type": "internal",
-                "page": "Greece"
-              }
-            ]
-          },
-          "party": {
-            "text": "New Democracy (since 2012) Popular Orthodox Rally (until 2012)",
-            "links": [
-              {
-                "text": "New Democracy",
-                "type": "internal",
-                "page": "New Democracy (Greece)"
-              }
-            ]
-          },
-          "father": {
-            "text": "Konstantinos Plevris",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Konstantinos Plevris"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Lena Papatheologou"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "occupation": {
-            "text": "Lawyer"
-          },
-          "alma_mater": {
-            "text": "University of Athens Heidelberg University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Athens"
-              },
-              {
-                "type": "internal",
-                "page": "Heidelberg University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "imagesize": "150px",
+  "name": "Thanos Plevris",
+  "honorific-suffix": "MP",
+  "caption": "Athanasios (Thanos) Plevris",
+  "office": "Minister for Health",
+  "primeminister": "Kyriakos Mitsotakis",
+  "term_start": "31 August 2021",
+  "predecessor": "Vasilis Kikilias",
+  "office1": "Member of the Hellenic Parliament for Athens A",
+  "term_start1": "7 July 2019",
+  "term_start2": "3 November 2014",
+  "term_end2": "25 January 2015",
+  "term_start3": "4 October 2009",
+  "term_end3": "11 April 2012",
+  "term_start4": "16 September 2007",
+  "term_end4": "3 July 2009",
+  "office5": "Member of the European Parliament for Greece",
+  "term_start5": "3 July 2009",
+  "term_end5": "4 October 2009",
+  "birth_date": "21 May 1977",
+  "birth_place": "Athens, Greece",
+  "party": "New Democracy (since 2012) Popular Orthodox Rally (until 2012)",
+  "father": "Konstantinos Plevris",
+  "spouse": "Lena Papatheologou",
+  "children": "2",
+  "occupation": "Lawyer",
+  "alma_mater": "University of Athens Heidelberg University"
 }
