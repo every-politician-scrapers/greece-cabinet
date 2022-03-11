@@ -1,6 +1,11 @@
 ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q60137773,13th Hellenic Parliament,,,,,,,,,,,,,,,Q60138379,12th Hellenic Parliament,Q60136193,14th Hellenic Parliament
-,Q60138379,12th Hellenic Parliament,,,,,,,,,,,Q61734430,11th Hellenic Parliament,,,,,Q60137773,13th Hellenic Parliament
+13,Q60137773,13th Hellenic Parliament,,,,,,,,,,,,,,,Q60138379,12th Hellenic Parliament,Q60136193,14th Hellenic Parliament
+12,Q60138379,12th Hellenic Parliament,,,,,,,,,,,Q61734430,11th Hellenic Parliament,,,,,Q60137773,13th Hellenic Parliament
+7,Q58895060,7th Hellenic Parliament,1990-04-08,1993-09-11,1990-04-08,11,,,1993-09-11,11,,,,,Q58895063,8th Hellenic Parliament,,,,
+8,Q58895063,8th Hellenic Parliament,1993-10-10,1996-08-24,1993-10-10,11,,,1996-08-24,11,,,Q58895060,7th Hellenic Parliament,Q58895065,9th Hellenic Parliament,,,,
+9,Q58895065,9th Hellenic Parliament,1996-09-22,2000-03-14,1996-09-22,11,,,2000-03-14,11,,,Q58895063,8th Hellenic Parliament,Q58895070,10th Hellenic Parliament,,,,
+10,Q58895070,10th Hellenic Parliament,2000-04-09,2004-02-11,2000-04-09,11,,,2004-02-11,11,,,Q58895065,9th Hellenic Parliament,,,,,,
+11,Q61734430,11th Hellenic Parliament,2004-03-07,2007-08-18,2004-03-07,11,,,2007-08-18,11,,,Q58895070,10th Hellenic Parliament,Q60138379,12th Hellenic Parliament,,,,
 14,Q60136193,14th Hellenic Parliament,2012-06-05,2012-05-19,2012-06-05,11,2012-05-17,11,,,2012-05-19,11,,,,,Q60137773,13th Hellenic Parliament,Q17425867,15th Hellenic Parliament
 14,Q60136193,14th Hellenic Parliament,2012-06-05,2012-05-19,2012-06-05,11,2012-06-05,11,,,2012-05-19,11,,,,,Q60137773,13th Hellenic Parliament,Q17425867,15th Hellenic Parliament
 15,Q17425867,15th Hellenic Parliament,2012-06-17,2014-12-31,2012-06-17,11,2012-06-17,11,,,2014-12-31,11,,,,,Q60136193,14th Hellenic Parliament,Q25379970,16th Hellenic Parliament
