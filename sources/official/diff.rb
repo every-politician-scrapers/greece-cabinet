@@ -5,7 +5,7 @@ require 'every_politician_scraper/comparison'
 
 # Skip junior ministers for now
 # TODO: make sure all are included
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def wikidata
     @wikidata ||= super.delete_if { |row| row[:position].start_with? 'Υπουργός Επικρατείας' }
   end
