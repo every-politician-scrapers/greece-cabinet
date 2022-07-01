@@ -1,5 +1,7 @@
 ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-7,Q58895060,7th Hellenic Parliament,1990-04-08,1993-09-11,1990-04-08,11,,,1993-09-11,11,,,,,Q58895063,8th Hellenic Parliament,,,,
+6,Q112683564,Q112683564,,,,,,,,,,,,,,,,,Q58895060,7th Hellenic Parliament
+5,Q112740745,Q112740745,,,,,,,,,,,,,,,Q104996553,Q104996553,Q112683564,Q112683564
+7,Q58895060,7th Hellenic Parliament,1990-04-08,1993-09-11,1990-04-08,11,,,1993-09-11,11,,,,,Q58895063,8th Hellenic Parliament,Q112683564,Q112683564,,
 8,Q58895063,8th Hellenic Parliament,1993-10-10,1996-08-24,1993-10-10,11,,,1996-08-24,11,,,Q58895060,7th Hellenic Parliament,Q58895065,9th Hellenic Parliament,,,,
 9,Q58895065,9th Hellenic Parliament,1996-09-22,2000-03-14,1996-09-22,11,,,2000-03-14,11,,,Q58895063,8th Hellenic Parliament,Q58895070,10th Hellenic Parliament,,,,
 10,Q58895070,10th Hellenic Parliament,2000-04-09,2004-02-11,2000-04-09,11,,,2004-02-11,11,,,Q58895065,9th Hellenic Parliament,Q61734430,11th Hellenic Parliament,,,,
