@@ -16,7 +16,7 @@ Q12885954,Fofi Gennimata,father,Q3561313,Georgios Gennimatas
 Q12885954,Fofi Gennimata,mother,Q109321688,Kakia Vergou
 Q12885954,Fofi Gennimata,spouse,Q109342991,Andreas Tsounis
 Q14928588,Kostas Bakoyannis,father,Q2040292,Pavlos Bakoyannis
-Q14928588,Kostas Bakoyannis,mother,Q464862,Ntora Bakoyannis
+Q14928588,Kostas Bakoyannis,mother,Q464862,Dora Bakoyannis
 Q14928588,Kostas Bakoyannis,sibling,Q100136474,Alexia Bakoyannis
 Q14928588,Kostas Bakoyannis,spouse,Q38362332,Sia Kosioni
 Q151917,Giorgos Papandreou,father,Q219256,Andreas Papandreou
@@ -77,7 +77,7 @@ Q30348632,Anastase Avéroff,sibling,Q23636352,Georges Averoff
 Q3051927,Eleni Zaroulia,spouse,Q703598,Nikos Michaloliakos
 Q30523513,Georgios Kyritsis,spouse,Q12872388,Elena Akrita
 Q312013,Konstantinos Mitsotakis,child,Q23887886,Alexandra Mitsotakis
-Q312013,Konstantinos Mitsotakis,child,Q464862,Ntora Bakoyannis
+Q312013,Konstantinos Mitsotakis,child,Q464862,Dora Bakoyannis
 Q312013,Konstantinos Mitsotakis,child,Q552751,Kyriakos Mitsotakis
 Q312013,Konstantinos Mitsotakis,child,Q65130680,Katerina Mitsotakis
 Q312013,Konstantinos Mitsotakis,father,Q14928422,Kyriakos Κ. Mitsotakis
@@ -90,15 +90,15 @@ Q40688,Yanis Varoufakis,spouse,Q2297038,Danae Stratou
 Q444093,Athanasios Plevris,father,Q669418,Konstantinos Plevris
 Q462542,Theodoros Pangalos,father,Q16504364,Georgios Pangalos
 Q462542,Theodoros Pangalos,spouse,Q16510486,Christina Christofaki
-Q464862,Ntora Bakoyannis,child,Q100136474,Alexia Bakoyannis
-Q464862,Ntora Bakoyannis,child,Q14928588,Kostas Bakoyannis
-Q464862,Ntora Bakoyannis,father,Q312013,Konstantinos Mitsotakis
-Q464862,Ntora Bakoyannis,mother,Q12880739,Marika Mitsotakis
-Q464862,Ntora Bakoyannis,sibling,Q23887886,Alexandra Mitsotakis
-Q464862,Ntora Bakoyannis,sibling,Q552751,Kyriakos Mitsotakis
-Q464862,Ntora Bakoyannis,sibling,Q65130680,Katerina Mitsotakis
-Q464862,Ntora Bakoyannis,spouse,Q18534428,Isidoros Kouvelos
-Q464862,Ntora Bakoyannis,spouse,Q2040292,Pavlos Bakoyannis
+Q464862,Dora Bakoyannis,child,Q100136474,Alexia Bakoyannis
+Q464862,Dora Bakoyannis,child,Q14928588,Kostas Bakoyannis
+Q464862,Dora Bakoyannis,father,Q312013,Konstantinos Mitsotakis
+Q464862,Dora Bakoyannis,mother,Q12880739,Marika Mitsotakis
+Q464862,Dora Bakoyannis,sibling,Q23887886,Alexandra Mitsotakis
+Q464862,Dora Bakoyannis,sibling,Q552751,Kyriakos Mitsotakis
+Q464862,Dora Bakoyannis,sibling,Q65130680,Katerina Mitsotakis
+Q464862,Dora Bakoyannis,spouse,Q18534428,Isidoros Kouvelos
+Q464862,Dora Bakoyannis,spouse,Q2040292,Pavlos Bakoyannis
 Q468064,Louka Katseli,father,Q12882490,Pélos Katséli
 Q468064,Louka Katseli,mother,Q12873274,Aleka Katseli
 Q468064,Louka Katseli,sibling,Q18154342,Nora Katseli
@@ -117,7 +117,7 @@ Q552751,Kyriakos Mitsotakis,father,Q312013,Konstantinos Mitsotakis
 Q552751,Kyriakos Mitsotakis,mother,Q12880739,Marika Mitsotakis
 Q552751,Kyriakos Mitsotakis,relative,Q65495263,Grigoris Dimitriadis
 Q552751,Kyriakos Mitsotakis,sibling,Q23887886,Alexandra Mitsotakis
-Q552751,Kyriakos Mitsotakis,sibling,Q464862,Ntora Bakoyannis
+Q552751,Kyriakos Mitsotakis,sibling,Q464862,Dora Bakoyannis
 Q552751,Kyriakos Mitsotakis,sibling,Q65130680,Katerina Mitsotakis
 Q552751,Kyriakos Mitsotakis,spouse,Q64211928,Mareva Grabowski
 Q57806,Antonis Samaras,father,Q21004372,Konstantinos Samaras
