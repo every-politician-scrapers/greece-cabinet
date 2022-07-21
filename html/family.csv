@@ -63,14 +63,6 @@ Q27882530,Georgios Ch. Kartalis,child,Q19204802,Antonios Kartalis
 Q27882530,Georgios Ch. Kartalis,child,Q27882549,Konstantinos Kartalis
 Q27882530,Georgios Ch. Kartalis,sibling,Q30243193,Ioannis Kartalis
 Q27882530,Georgios Ch. Kartalis,sibling,Q30243206,Αριστείδης Καρτάλης
-Q29883265,,sibling,Q29883270,Δημήτριος Κατσίνας
-Q29883270,,sibling,Q29883265,Γεώργιος Κατσίνας
-Q29892566,,father,Q12876056,Dimítrios Chatzískos
-Q29892566,,sibling,Q22812361,Nikolaos Chatziskos
-Q29892566,,sibling,Q29892581,Κωνσταντίνος Χατζίσκος
-Q29892581,,father,Q12876056,Dimítrios Chatzískos
-Q29892581,,sibling,Q22812361,Nikolaos Chatziskos
-Q29892581,,sibling,Q29892566,Ιωάννης Χατζίσκος
 Q30242650,Aryirios Philippides,child,Q30243020,Georgios Filippidis
 Q30348632,Anastase Avéroff,child,Q43968709,Michel Avéroff
 Q30348632,Anastase Avéroff,child,Q562162,Evangelos Averoff
@@ -88,6 +80,8 @@ Q3347276,Nikos Konstantopoulos,child,Q12877513,Zoi Konstantopoulou
 Q3577025,Anna Benaki-Psarouda,spouse,Q6554744,Linos Benakis
 Q382096,Georgios Voulgarakis,child,Q61650367,Παυλίνα Βουλγαράκη
 Q40688,Yanis Varoufakis,spouse,Q2297038,Danae Stratou
+Q44056603,Kostas Katsikis,father,Q16327679,Θεόδωρος Κατσίκης
+Q44056603,Kostas Katsikis,father,Q16327679,Θεόδωρος Κατσίκης
 Q444093,Athanasios Plevris,father,Q669418,Konstantinos Plevris
 Q462542,Theodoros Pangalos,father,Q16504364,Georgios Pangalos
 Q462542,Theodoros Pangalos,spouse,Q16510486,Christina Christofaki
@@ -107,7 +101,6 @@ Q468064,Louka Katseli,spouse,Q701060,Gerasimos Arsenis
 Q4684534,Adonis Georgiades,spouse,Q16211010,Eugenia Manolidou
 Q526202,Tasos Giannitsis,child,Q106929737,Constantine Giannitsis
 Q535120,Fani Palli-Petralia,spouse,Q108328820,Nikos Pallis
-Q53599171,,father,Q16327679,Θεόδωρος Κατσίκης
 Q536323,Olga Kefalogianni,spouse,Q30085577,Minos Matsas
 Q5367305,Elpida Tsouri,father,Q94579024,Stefanos Tsouris
 Q5415838,Evangelos Basiakos,father,Q20127721,Aristídis Bassiákos
@@ -141,5 +134,4 @@ Q7786625,Thodoris Dritsas,spouse,Q24702508,Tasia Christodoulopoulou
 Q7916956,Vassilis Kikilias,spouse,Q25345997,Jenny Balatsinou
 Q7943966,Viron Polydoras,sibling,Q105191732,Αντώνιος Πολύδωρας
 Q85557267,Katerina Monogyiou,sibling,Q110553795,Tzortzis
-Q92708134,,relative,Q12878324,Ioannis Drosopoulos
 Q929413,Giorgos Papakonstantinou,relative,Q983656,Michalis Papakonstantinou
